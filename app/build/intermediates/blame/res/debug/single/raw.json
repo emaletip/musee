@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/xo7/Downloads/Android/LeMuséedelafauned'Asie/app/build/intermediates/res/merged/debug/raw/animals.csv",
+        "source": "/Users/xo7/Downloads/Android/LeMuséedelafauned'Asie/app/src/main/res/raw/animals.csv"
+    },
+    {
+        "merged": "/Users/xo7/Downloads/Android/LeMuséedelafauned'Asie/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/xo7/Downloads/Android/LeMuséedelafauned'Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/xo7/Downloads/Android/LeMuséedelafauned'Asie/app/build/intermediates/res/merged/debug/raw/song.mp3",
+        "source": "/Users/xo7/Downloads/Android/LeMuséedelafauned'Asie/app/src/main/res/raw/song.mp3"
+    }
+]

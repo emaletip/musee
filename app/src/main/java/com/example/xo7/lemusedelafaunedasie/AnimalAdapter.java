@@ -63,7 +63,13 @@ public class AnimalAdapter extends BaseAdapter {
         viewHolder.animal = getItem(position);
 
         viewHolder.animal_name.setText(viewHolder.animal.getName());
-        viewHolder.animal_desc.setText(viewHolder.animal.getDescription());
+
+        String desc = viewHolder.animal.getDescription();
+        if(desc.length() > 100) {
+            desc = String.valueOf(desc.toCharArray(), 0, 100).concat("...");
+        }
+
+        viewHolder.animal_desc.setText(desc);
 
         viewHolder.animal_image.setImageDrawable(viewHolder.animal.getImage());
 

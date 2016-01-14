@@ -3,4 +3,13 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="carnivore">#DE8C77</color>
+    <color name="carnivore_light">#FFD9D7</color>
+    <color name="herbivore">#B4CE63</color>
+    <color name="herbivore_light">#E6E296</color>
+    <color name="omnivore">#927D6A</color>
+    <color name="omnivore_light">#B0A293</color>
+    <color name="other">#328A99</color>
+    <color name="other_light">#C1E0D6</color>
+
 </resources>

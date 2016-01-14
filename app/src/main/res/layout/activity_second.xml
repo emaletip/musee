@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    tools:context="com.example.xo7.lemusedelafaunedasie.SecondActivity"
+    >
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:id="@+id/logo_second"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:contentDescription=""
+        android:src="@drawable/logo2"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="L’Asie est un continent vaste aux climats et aux reliefs variés. Il abrite donc un nombre considérable d’animaux sauvages ou domestiqués."
+        android:id="@+id/presentation"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="20dp"
+        android:layout_margin="10dp"
+        android:textAlignment="center"
+        android:layout_below="@+id/logo_second"/>
+
+    <RelativeLayout
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/presentation"
+        android:layout_centerHorizontal="true">
+
+        <ImageButton
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:id="@+id/button_herbivore"
+            android:layout_alignParentTop="false"
+            android:layout_centerHorizontal="true"
+            android:background="@null"
+            android:src="@drawable/btn_herbivore"
+            android:scaleType="fitCenter"/>
+
+        <ImageButton
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:id="@+id/button_other"
+            android:layout_below="@+id/button_carnivore"
+            android:layout_centerHorizontal="true"
+            android:background="@null"
+            android:src="@drawable/btn_autre"
+            android:adjustViewBounds="false"
+            android:scaleType="fitCenter"/>
+
+        <ImageButton
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:id="@+id/button_carnivore"
+            android:layout_below="@+id/button_herbivore"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/btn_carnivore"
+            android:background="@null"
+            android:scaleType="fitCenter"/>
+
+        <ImageButton
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:id="@+id/button_omnivore"
+            android:layout_below="@+id/button_herbivore"
+            android:layout_alignParentRight="true"
+            android:background="@null"
+            android:src="@drawable/btn_omnivore"
+            android:scaleType="fitCenter"/>
+
+    </RelativeLayout>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Voir les animaux proches"
+        android:id="@+id/button_proximity"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/relativeLayout"
+        android:layout_marginTop="30dp"/>
+
+</RelativeLayout>

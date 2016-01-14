@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.4.0_ca49214266f2f163b1bd5dae0b000c6d8bc2edce.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.4.0_b59f9167f133b045d12422187fc0aa041dc508de.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_0889d52158f5e3a110999075544e46c8acfb2502.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-8.4.0_b3e2b8143518a676916abe2e0b55eb80983e2d2e.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_a3695ffdf143f8b5fd00de110ca7d11d8869bea2.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_a7b52d93d1c5cf784453433d059b4f961a960648.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.4.0_ef8baed489deeb1c488016b3adcb98d25b88142b.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-8.4.0_260302b3a06d9fce9c2b754a8e5c2c74525ce3f3.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.4.0_cb9a5b0a547c456000914301b944514532ee98ea.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.4.0_f7d1e57d8e06cd10c5a013dd731c944c4b770163.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.4.0_742bceb2fa0361b6c4a9c106c1f2402478ea97c6.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-8.4.0_dc0998c82c8e17dd7ac9b20e52d10623f01cbafd.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-8.4.0_9919653a7756b038800292e4404041800eeb9efc.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_97a985467032cb781a30d79b634bc0df0e0f051e.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_50155493b8e2f6adbb37be35dd820e1b078b0ec2.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-8.4.0_a2f5806dd0500c04970b4a2f510cb4d711a4e022.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_de1e684b61d91eef2ec788a05bed0dad57f74ce5.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-8.4.0_d1ecd813b1e01daf9aceaf058653385e92b16dc3.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_4577abd83515960e8c19a4f58bfce6668e371d89.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-8.4.0_bd12fedd531768c82b7db718e1f3822707ccce21.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.4.0_f40faac72fa1e4f2b099365b7cb3081bfaabce39.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.4.0_cc3f9eb1a4a2820e844eced1d390dd39e6d7c2a2.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.4.0_f80a7506707302c44fbadaceca0513a7dad303e7.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-8.4.0_e4388dcb27cbbf7bd26187045bb5fc452a0f62dd.jar" />
+    </item>
+    <item
+        jar="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/xo7/Downloads/Android/LeMuséedelafauned&apos;Asie/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_53b6ec26aa99b64dd6b0e75efc28502cd663c19c.jar" />
+    </item>
+
+</items>
